@@ -1,0 +1,23 @@
+header{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+footer{
+    background-color: gray;
+    text-align: center;
+}
+section{
+    width: 50%;
+    height: 25%;
+
+}
+.card img{
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 20px;
+    flex: 1;
+    min-height: 500px;
+    max-width: 500px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 1);
+    text-align: center;
+}

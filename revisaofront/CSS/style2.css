@@ -1,0 +1,15 @@
+header {
+  height: 500px !important;
+}
+
+#carouselExampleAutoplaying img {
+  max-width: 100%;
+  max-height: 500px !important;
+}
+.carousel-inner {
+  max-height: 20% !important;
+}
+
+.container .card .card-text {
+  height: 100px;
+}
